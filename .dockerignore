@@ -1,0 +1,8 @@
+venv/
+.git/
+.gitignore
+.ipynb_checkpoints/
+__pycache__/
+.env
+logs/
+assets/
