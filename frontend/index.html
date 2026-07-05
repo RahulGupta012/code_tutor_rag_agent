@@ -789,7 +789,8 @@
 </main>
 
 <script>
-const API_URL = 'http://127.0.0.1:8000/ask';
+
+const API_URL = "http://localhost:8000/ask";
 
 let chats = [];
 try { chats = JSON.parse(localStorage.getItem('pytutor_chats') || '[]'); } catch(e) { chats = []; }

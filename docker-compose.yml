@@ -39,14 +39,14 @@ services:
     ports:
     - "6379:6379"
 
-  # frontend:
-  #   build: ./frontend
+  frontend:
+    build: ./frontend
 
-  #   ports:
-  #     - "3000:80"
+    ports:
+      - "3000:80"
 
-  #   depends_on:
-  #     - api
+    depends_on:
+      - api
 
 
 

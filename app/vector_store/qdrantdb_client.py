@@ -12,7 +12,8 @@ def get_qdrant_client() -> QdrantClient:
     # host = os.getenv("QDRANT_HOST")
     # port = int(os.getenv("QDRANT_PORT"))
     
-    host = "localhost"
+    # host = "localhost"
+    host = "qdrant"
     port = 6333
 
     logger.info("Initializing Qdrant client...")
