@@ -100,7 +100,7 @@ Final Response
 
 The retrieval pipeline was tested on 10 queries.
 
-![Evaluation Results](app/assets/readme_assets/evaluation.png)
+![Evaluation Results](readme_assets/evaluation.png)
 
 ## Application Logs
 
@@ -108,7 +108,7 @@ The logs below show application startup, Qdrant connection, embedding
 model loading, hybrid retrieval, confidence checking, prompt
 construction, and Gemini response generation.
 
-![Application Logs](app/assets/readme_assets/logs.png)
+![Application Logs](readme_assets/logs.png)
 
 ## Run with Docker
 
