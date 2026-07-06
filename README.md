@@ -52,8 +52,8 @@ response generation.
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?logo=qdrant&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-LLM-8E75B2?logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-BGE_Embeddings-FFD21E?logo=huggingface&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-Semantic_Cache-DC382D?logo=redis&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-Web_Search-DE5833?logo=duckduckgo&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 
 
